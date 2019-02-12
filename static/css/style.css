@@ -123,9 +123,10 @@ hr {
 
 
 body {
-    background-color:  	#2F4F4F;
+    /* background-color:  	#2F4F4F; */
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
-    zoom: 90%;
+    zoom: 100%;    
+    height: 800px;
 }
 
 footer {
